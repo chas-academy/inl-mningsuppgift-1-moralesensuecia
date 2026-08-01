@@ -9,6 +9,7 @@ int main()
     for (int i = 0; i < 100; i++)
     {
         dice_rolls[i] = (rand () % 6) + 1;
+        printf
     }
 
     // Your code goes here
